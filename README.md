@@ -1,10 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayeshakavi&label=Profile%20views&color=0e75b6&style=flat" alt="gayeshakavi" /> </p>
 <h1 align="center">Hi 👋, I'm Gayesha Kavindi</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshakavi" alt="gayeshakavi" /></a> </p>
 
 - 🔭 I’m currently working on **Ceylon Fusion**
-
-- 👯 I’m looking to collaborate on **Final project**
 
 - 📫 How to reach me **gayeshakavindi0810@gmail.com**
 
