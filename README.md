@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science at University Of Ruhuna**.
 
-- 🔭 I’m currently working on **Ceylon Fusion(Final Year Project)**
+- 🔭 I’m currently working on **Ceylon Fusion (Final Year Project)**
 
 - 📫 How to reach me **gayeshakavindi0810@gmail.com**
 
