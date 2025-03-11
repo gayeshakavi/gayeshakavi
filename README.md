@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshakavi" alt="gayeshakavi" /></a> </p>
 
+- 🌱 I’m currently learning **Computer Science in University Of Ruhuna**.
+
 - 🔭 I’m currently working on **Ceylon Fusion**
 
 - 📫 How to reach me **gayeshakavindi0810@gmail.com**
