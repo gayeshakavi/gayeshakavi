@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayeshakavi&label=Profile%20views&color=0e75b6&style=flat" alt="gayeshakavi" /> </p>
 <h1 align="left">Hi 👋, I'm Gayesha Kavindi</h1>
- <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="750" height="450" align="center"/>
+ <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" align="center"/>
 
  <!--<h1 align="center">Hi 👋, I'm Gayesha Kavindi</h1>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
