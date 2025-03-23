@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayeshakavi&label=Profile%20views&color=0e75b6&style=flat" alt="gayeshakavi" /> </p>
-<!-- <h1 align="left">Hi 👋, I'm Gayesha Kavindi</h1>
- <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="1000" height="500" align="center"/>
- -->
- <h1 align="center">Hi 👋, I'm Gayesha Kavindi</h1>
+<h1 align="left">Hi 👋, I'm Gayesha Kavindi</h1>
+ <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI3MTIyOTUsIm5iZiI6MTc0MjcxMTk5NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIzVDA2Mzk1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkYjE5YTcxMmI3YTJlNjEwODU5MDkyYzQxNTk3OWNhYjliYjRlMWE0YmMyYWYwNmNlZTY4NGUzMGUxNGQ2MzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aPu3n1PM_dv1XlNEfOVh79buOkLd4y7_JV-iizKiCl0" align="center"/>
+
+ <!--<h1 align="center">Hi 👋, I'm Gayesha Kavindi</h1>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="600"/>
-</div>
+</div>-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshakavi" alt="gayeshakavi" /></a> </p>-->
 
