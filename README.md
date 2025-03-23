@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayeshakavi&label=Profile%20views&color=0e75b6&style=flat" alt="gayeshakavi" /> </p>
 <h1 align="center">Hi 👋, I'm Gayesha Kavindi</h1>
+ <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI3MTIyOTUsIm5iZiI6MTc0MjcxMTk5NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIzVDA2Mzk1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhYjQ2YzNjNDljNDk4YjNkODQzZGU2YjVkZTgyZWIxZmU2N2EwZTEwYjI0Y2Y3ZTY2OWM0N2M2ZWU0NzBjMjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IdEus7uKJL1F78WOsorPczUmlb3zp_eXhYu5BQY168E"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshakavi" alt="gayeshakavi" /></a> </p>
 
