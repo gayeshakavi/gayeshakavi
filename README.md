@@ -1,8 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayeshakavi&label=Profile%20views&color=0e75b6&style=flat" alt="gayeshakavi" /> </p>
-<h1 align="center">Hi 👋, I'm Gayesha Kavindi</h1>
- <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"/>
+<!-- <h1 align="left">Hi 👋, I'm Gayesha Kavindi</h1>
+ <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="1000" height="500" align="center"/>
+ -->
+ <h1 align="center">Hi 👋, I'm Gayesha Kavindi</h1>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="600"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshakavi" alt="gayeshakavi" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshakavi" alt="gayeshakavi" /></a> </p>-->
 
 - 🌱 I’m currently learning **Computer Science at University Of Ruhuna**.
 
