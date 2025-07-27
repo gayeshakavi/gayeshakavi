@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="600"/>
 </div>-->
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshakavi" alt="gayeshakavi" /></a> </p>-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshakavi" alt="gayeshakavi" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Science at University Of Ruhuna**.
 
