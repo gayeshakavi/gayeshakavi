@@ -15,7 +15,7 @@
 - 📫 How to reach me **gayeshakavindi0810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/gayesha thena handi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayesha thena handi" height="30" width="40" /></a>
 <a href="https://kaggle.com/kavindig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavindig" height="30" width="40" /></a>
 </p>
