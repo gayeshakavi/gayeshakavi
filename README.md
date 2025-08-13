@@ -25,4 +25,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshakavi" alt="gayeshakavi" /></a> </p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayeshakavi&" alt="gayeshakavi" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayeshakavi&" alt="gayeshakavi" />
+</div>
+
