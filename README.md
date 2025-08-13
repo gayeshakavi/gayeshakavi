@@ -9,10 +9,11 @@
 </div>-->
 
 
-
+<div align="center">
 - 🌱 I’m currently learning **Computer Science at University Of Ruhuna**.
 
 - 📫 How to reach me **gayeshakavindi0810@gmail.com**
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
